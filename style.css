@@ -266,13 +266,13 @@ button[data-js] {
     background-color: #fbfbfc;
     color: #060606;
     border: none;
-    padding: 0.6rem 1.2rem;
+    padding: 0.4rem 1.2rem;
     margin: 0 1.8rem 0 2.7rem;
     border-radius: 6px;
     font-size: 1.2rem;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    margin-top: 15px;
+    margin-top: 2%;
     font-weight: 600;
 
 }
@@ -298,7 +298,7 @@ button[data-js]:hover {
 
 .sctn3 {
     width: 100%;
-    height: 93vh;
+    height: 95vh;
     text-align: center;
     align-items: center;
     padding-top: 10px;
@@ -395,10 +395,10 @@ img {
 }
 
 .para-MH {
-    width: 705px;
-    height: 765px;
+    width: 35%;
+    height: 90%;
     margin: 30px;
-    margin-left: 898px;
+    margin-left:48%;
     background: #fffefe;
     color: #030303;
     border-radius: 50px;
@@ -479,7 +479,7 @@ img {
     background: #030303;
     position: absolute;
     top: 50%;
-    right: 13%;
+    right: 9%;
     color: #f0eeee;
     border: none;
     padding: 0.7rem 1.2rem;
@@ -494,7 +494,7 @@ img {
 .btn-dp2 {
     position: absolute;
     top: 50%;
-    left: 14%;
+    left: 9%;
     background-color: #030303;
     color: #f0eeee;
     border: none;
@@ -722,7 +722,7 @@ footer {
     flex-direction: column;
     justify-content: center;
     position: relative;
-    height: 99vh;
+    height: 115vh;
     align-items: center;
     text-align: center;
     padding-top: 60px;
@@ -789,9 +789,8 @@ footer {
     color: #040404;
     text-transform: uppercase;
     letter-spacing: 1px;
-    
     font-weight: 400;
-    margin-top: -15%;
+    margin-top: 5%;
 }
 
 .btn-TRA {
@@ -814,7 +813,7 @@ footer {
 .result {
     width: 200px;
     text-align: center;
-    margin-left: 83px;
+    margin-left: 11%;
     font-size: 11px;
     font-weight: 300;
     margin-top: 10%;
@@ -838,15 +837,15 @@ footer {
 }
 
 .carousel {
-    width: 360px;
+    width: 70%;
     height: 150px;
-    margin-left: 8%;
+    margin-left: 15%;
     margin-top: 7%;
 }
 
 .sctn3 {
     width: 100%;
-    height: 110vh;
+    height: 120vh;
     text-align: center;
     align-items: center;
     padding-top: 20px;
@@ -857,23 +856,42 @@ footer {
     margin-top: 20px;
     border-radius: 50px;
     height:48px;
-    width: 199px;
+    width: 100%;
     background: #04044a;
     color: #faf9f9;
     font-size: 15px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    margin-left: 15%;
+    margin-left: 17%;
 }
 
 .btn-RESUL:hover {
     transform: translateY(-5px);
     box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
 }
+
+button[data-js] {
+    background-color: #fbfbfc;
+    color: #060606;
+    border: none;
+    padding: 0.4rem 0.8rem;
+    margin: 0 1.8rem 0 2.0rem;
+    border-radius: 6px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 2%;
+    font-weight: 600;
+
+}
+
+button[data-js]:hover {
+    background-color: #f3f2f2;
+}
 /*section finalizada*/
 
 .sctn4 {
     width: 100%;
-    height: 130vh;
+    height: 140vh;
     text-align: center;
     align-items: center;
     padding-top: 20px;
@@ -905,15 +923,15 @@ footer {
 }
 
 .para-MH {
-    width: 245px;
-    height: 660px;
+    width: 55%;
+    height: 60%;
     margin-top: 3%;
     margin-left: 41%;
     background: #fffefe;
     color: #030303;
     border-radius: 50px;
     padding: 5% 5%;
-    font-size: 11px;
+    font-size: 10px;
     font-weight: 400;
     font-style: italic;
     text-align: justify;
@@ -945,14 +963,14 @@ footer {
 /*section finalizada*/
 .dp-img {
     padding: 5%;
-    width: 350px;
+    width: 80%;
     height: 430px;
-    margin-left: 7%;
+    margin-left: 9%;
 }
 
 .sctn5 {
     width: 100%;
-    height: 155vh;
+    height: 175vh;
     text-align: center;
     align-items: center;
     padding-top: 20px;
@@ -970,6 +988,7 @@ footer {
 .pDP {
     font-weight: 300;
     font-size: 30px;
+    margin-top: 15%;
 }
 
 /*section finalizada*/
