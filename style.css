@@ -267,7 +267,7 @@ button[data-js] {
     color: #060606;
     border: none;
     padding: 0.4rem 1.2rem;
-    margin: 0 1.8rem 0 2.7rem;
+    margin: 0 1.8rem 0 2.4rem;
     border-radius: 6px;
     font-size: 1.2rem;
     cursor: pointer;
@@ -298,7 +298,7 @@ button[data-js]:hover {
 
 .sctn3 {
     width: 100%;
-    height: 95vh;
+    height: 100vh;
     text-align: center;
     align-items: center;
     padding-top: 10px;
@@ -327,7 +327,7 @@ button[data-js]:hover {
 
 .carousel {
     width: 800px;
-    height: 400px;
+    height: 410px;
     margin-right: 5px;
     margin-left: 90px;
     margin-top: 80px;
@@ -403,7 +403,7 @@ img {
     color: #030303;
     border-radius: 50px;
     padding: 50px 50px;
-    font-size: 19px;
+    font-size: 15px;
     font-weight: 400;
     font-style: italic;
     text-align: justify;
@@ -413,7 +413,7 @@ img {
 .mH {
     font-size: 40px;
     font-weight: 400;
-    margin-left: 800px;
+    margin-left: 30%;
     color: #f0eeee;
 }
 
@@ -479,7 +479,7 @@ img {
     background: #030303;
     position: absolute;
     top: 50%;
-    right: 9%;
+    right: 6%;
     color: #f0eeee;
     border: none;
     padding: 0.7rem 1.2rem;
@@ -494,7 +494,7 @@ img {
 .btn-dp2 {
     position: absolute;
     top: 50%;
-    left: 9%;
+    left: 7%;
     background-color: #030303;
     color: #f0eeee;
     border: none;
@@ -658,12 +658,11 @@ footer {
     }
 
     .sctn1 {
-        height: 90vh;
+        height: 92vh;
         display: flex;
         justify-content: center;
         align-items: center;
         text-align: center;
-        padding-top: 40px;
         background-attachment: fixed;
     }
 
@@ -684,13 +683,13 @@ footer {
 .div1 {
     font-size: 29px;
     font-weight: 200;
-    margin: 125% 30% 0% 30%;
+    margin: 100% 30% 0% 30%;
 }
 
 .div1-1 {
     background: #fffefe;
     font-size: 10px;
-    padding: 20px;
+    padding: 5%;
     border-radius: 20px;
     text-align: center;
 }
@@ -832,7 +831,7 @@ footer {
 
 .paraResult {
     font-size: 13px;
-    width: 133%;
+    width: 140%;
     text-align: justify;
 }
 
@@ -931,7 +930,7 @@ button[data-js]:hover {
     color: #030303;
     border-radius: 50px;
     padding: 5% 5%;
-    font-size: 10px;
+    font-size: 15px;
     font-weight: 400;
     font-style: italic;
     text-align: justify;
@@ -955,7 +954,7 @@ button[data-js]:hover {
     color: #030303;
     border-radius: 50px;
     padding: 50px 50px;
-    font-size: 19px;
+    font-size: 8px;
     font-weight: 300;
     font-style: italic;
     text-align: justify;
